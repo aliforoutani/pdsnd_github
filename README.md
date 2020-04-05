@@ -11,5 +11,5 @@ Tracking the useage of bikes provided by bikeshare company in three major cities
 Data files form washington .csv, new_york_city.csv and chicago.csv
 
 ### Credits
-Thanks the Udacity teaching team
+Thanks the Udacity teaching team and bike share company
 

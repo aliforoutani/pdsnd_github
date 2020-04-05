@@ -40,7 +40,7 @@ def get_filters():
                 month=input("Please enter name of the month,'january, february, march, april, may, june': ").lower()
                 day='all'
             elif month_day=='day':
-                day=input('Please enter the name of the day of the week: ').title()
+                day=input('Please enter the name of the day of the week: ').lower().title()
                 month='all'
             else:
                 month='all'

@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+2020-april-05
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Tracking the useage of bikes provided by bikeshare company in three major cities.
 
 ### Files used
-Include the files used
+Data files form washington .csv, new_york_city.csv and chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanks the Udacity teaching team
 

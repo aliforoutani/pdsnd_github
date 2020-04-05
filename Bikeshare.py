@@ -31,7 +31,7 @@ def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
-            city=input("Please choose your city 'new york city','chicago','washindton': ").lower()
+            city=input("Please choose your city 'new york city','chicago','washington': ").lower()
             month_day=input('Would you like to filter by day, month, both or none? ')
             if month_day=='both':
                 month=input("Please enter name of the month,'january, february, march, april, may, june': ").lower()
